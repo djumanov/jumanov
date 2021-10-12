@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 ![Jumanov's github stats](https://github-readme-stats.vercel.app/api?username=jumanov&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
